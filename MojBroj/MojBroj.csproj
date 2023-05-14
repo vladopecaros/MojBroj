@@ -95,9 +95,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Ikonice\4703650.png" />
-    <Content Include="Ikonice\Screenshot 2023-05-12 143443.png" />
-    <Content Include="Ikonice\Screenshot 2023-05-12 143604.png" />
     <None Include="Resources\Screenshot 2023-05-12 181259.png" />
     <None Include="Resources\confirm-tick-vector-icon-symbol-flat-pictogram-isolated-white-background-confirm-tick-pictogram-designed-simple-style-139405470.jpg" />
     <None Include="Resources\cancel.png" />
